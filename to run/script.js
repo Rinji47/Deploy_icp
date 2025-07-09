@@ -1,5 +1,5 @@
   var vapiInstance = null;
-  const assistant = "<assistant_id>"; 
+  const assistant = "d9a654cc-c107-4042-b00d-c4973c224b6d"; 
   const apiKey = "<your_public_api_key>"; 
   const buttonConfig = {}; 
 
